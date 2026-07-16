@@ -11,9 +11,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Isometric commit calendar
         uses: lowlighter/metrics@latest
         with:
@@ -53,11 +50,3 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 6
-
-      - name: Commit generated SVGs
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add metrics.plugin.*.svg
-          git diff --cached --quiet || git commit -m "chore: update profile metrics"
-          git push

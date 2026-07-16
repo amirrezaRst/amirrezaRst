@@ -11,6 +11,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Isometric commit calendar
         uses: lowlighter/metrics@latest
         with:

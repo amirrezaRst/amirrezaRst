@@ -26,65 +26,73 @@
 
 <p align="left">
   <b>Languages</b><br/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
 </p>
 
 <p align="left">
   <b>Frontend</b><br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,tailwind" />
 </p>
 
 <p align="left">
   <b>Backend & Data</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis" />
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 <p align="left">
   <b>Tools</b><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,jest" />
 </p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amirrezaRst&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezaRst&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=amirrezaRst&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezaRst&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezaRst&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezaRst&theme=tokyonight&hide_border=true" />
+</p>
+
+</td>
+<td width="50%" valign="top">
 
 ### 📅 Isometric Commit Calendar
 
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="80%" />
+  <img width="100%" src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" />
 </p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="./metrics.plugin.achievements.svg" alt="GitHub achievements" width="80%" />
+  <img width="100%" src="./metrics.plugin.achievements.svg" alt="GitHub achievements" />
 </p>
 
-### 🚀 Website Performance (Google PageSpeed)
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Website Performance
 
 <p align="center">
-  <img src="./metrics.plugin.pagespeed.svg" alt="Google PageSpeed report" width="80%" />
+  <img width="100%" src="./metrics.plugin.pagespeed.svg" alt="Google PageSpeed report" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ### 📌 Starred Topics
 

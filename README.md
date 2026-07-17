@@ -31,13 +31,13 @@
 
 <p align="left">
   <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white" />
 </p>
 
 <p align="left">
   <b>Backend & Data</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis" />
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma" />
 </p>
 
 <p align="left">
